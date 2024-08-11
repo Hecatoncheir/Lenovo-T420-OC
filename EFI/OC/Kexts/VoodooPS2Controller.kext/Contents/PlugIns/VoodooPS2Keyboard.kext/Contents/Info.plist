@@ -289,7 +289,7 @@
 					</array>
 					<key>Custom ADB Map</key>
 					<array>
-						<string>;Items must be strings in the form of scanfrom=adbto (in hex)</string>
+						<string>3a=3d;swap caps_lock with right_option</string>
 					</array>
 					<key>Custom PS2 Map</key>
 					<array>
@@ -310,7 +310,7 @@
 					<key>SleepPressTime</key>
 					<integer>0</integer>
 					<key>Swap capslock and left control</key>
-					<false/>
+					<true/>
 					<key>Swap command and option</key>
 					<true/>
 					<key>Use ISO layout keyboard</key>
@@ -609,7 +609,7 @@
 						<key>SleepPressTime</key>
 						<integer>1500</integer>
 						<key>Swap capslock and left control</key>
-						<false/>
+						<true/>
 						<key>Swap command and option</key>
 						<true/>
 						<key>Use ISO layout keyboard</key>
@@ -629,6 +629,7 @@
 						<string>3b d, 37 d, 7e d, 7e u, 37 u, 3b u</string>
 						<key>Custom ADB Map</key>
 						<array>
+							<string>3a=3d;swap caps_lock with right_option</string>
 							<string>e01e=4d;previous</string>
 							<string>e045=42;next</string>
 						</array>
@@ -696,7 +697,7 @@
 						<key>SleepPressTime</key>
 						<integer>1500</integer>
 						<key>Swap capslock and left control</key>
-						<false/>
+						<true/>
 						<key>Swap command and option</key>
 						<true/>
 						<key>Use ISO layout keyboard</key>
